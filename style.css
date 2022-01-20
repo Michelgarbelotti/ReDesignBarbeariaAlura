@@ -37,10 +37,6 @@
     text-transform: uppercase;
 }
 
-header {
-    ; 
-}
-
 .header-bar {
     display: flex;
     justify-content: space-around;
