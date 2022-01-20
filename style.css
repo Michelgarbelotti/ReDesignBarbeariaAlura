@@ -38,13 +38,14 @@
 }
 
 header {
-    background: black; 
+    ; 
 }
 
 .header-bar {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background: black
     padding: 24px; 
     padding-left: 550px;
 }
